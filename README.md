@@ -1,4 +1,3 @@
 # Zofia
-Zofiaのssを書いています。
-contribute歓迎
+Zofiaのssを書いています
 zofia.txtから本文が見れます
